@@ -1,0 +1,59 @@
+/* Text color */
+
+.text-style {
+
+    color: darkblue;
+
+    font-size: 20px;
+
+    font-weight: bold;
+
+}
+
+
+/* Font properties */
+
+.font-style {
+
+    font-family: Arial, sans-serif;
+
+    font-style: italic;
+
+    font-size: 18px;
+
+}
+
+
+/* Text alignment */
+
+.alignment {
+
+    text-align: center;
+
+    text-transform: uppercase;
+
+}
+
+
+/* Text decoration */
+
+.decoration {
+
+    text-decoration: underline;
+
+    letter-spacing: 2px;
+
+    word-spacing: 5px;
+
+}
+
+
+/* Heading styling */
+
+h1 {
+
+    text-align: center;
+
+    font-family: Georgia, serif;
+
+}

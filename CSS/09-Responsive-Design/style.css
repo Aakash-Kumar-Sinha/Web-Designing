@@ -1,0 +1,55 @@
+/* Default desktop layout */
+
+.container {
+
+    display: flex;
+
+    gap: 20px;
+
+}
+
+
+.card {
+
+    flex: 1;
+
+    background-color: lightblue;
+
+    padding: 20px;
+
+    border: 2px solid black;
+
+}
+
+
+/* Tablet */
+
+@media (max-width: 768px) {
+
+    .container {
+
+        flex-direction: column;
+
+    }
+
+}
+
+
+/* Mobile */
+
+@media (max-width: 480px) {
+
+    h1 {
+
+        font-size: 24px;
+
+    }
+
+
+    .card {
+
+        padding: 10px;
+
+    }
+
+}

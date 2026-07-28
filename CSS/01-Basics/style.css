@@ -1,0 +1,23 @@
+/* Element Selector */
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+
+p {
+    font-size: 18px;
+    color: gray;
+}
+
+
+/* Class Selector */
+
+.box {
+
+    background-color: lightblue;
+    padding: 20px;
+    border: 2px solid black;
+
+}

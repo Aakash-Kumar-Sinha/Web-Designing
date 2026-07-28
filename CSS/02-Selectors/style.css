@@ -1,0 +1,50 @@
+/* Universal Selector */
+
+* {
+    font-family: Arial, sans-serif;
+}
+
+
+/* Element Selector */
+
+p {
+    color: blue;
+}
+
+
+/* Class Selector */
+
+.text {
+
+    color: green;
+    font-size: 18px;
+
+}
+
+
+/* ID Selector */
+
+#box {
+
+    background-color: lightgray;
+    padding: 20px;
+
+}
+
+
+/* Group Selector */
+
+h2, h3 {
+
+    color: purple;
+
+}
+
+
+/* Descendant Selector */
+
+section p {
+
+    color: red;
+
+}

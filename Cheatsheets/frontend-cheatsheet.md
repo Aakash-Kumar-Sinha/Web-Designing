@@ -347,11 +347,3 @@ JavaScript → Logic + Interaction
 
 Bootstrap → Responsive UI
 ```
-
----
-
-## Commit Message
-
-```bash
-Add frontend cheatsheet
-```

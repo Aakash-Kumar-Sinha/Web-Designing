@@ -1,0 +1,60 @@
+/* Flex Container */
+
+.container {
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    gap: 20px;
+
+    height: 300px;
+
+    background-color: lightgray;
+
+}
+
+
+/* Flex Items */
+
+.box {
+
+    width: 100px;
+
+    height: 100px;
+
+    background-color: steelblue;
+
+    color: white;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+}
+
+
+/* Flex Direction Example */
+
+.container {
+
+    flex-direction: row;
+
+}
+
+
+/* Responsive Flex Example */
+
+@media (max-width: 600px) {
+
+    .container {
+
+        flex-direction: column;
+
+    }
+
+}

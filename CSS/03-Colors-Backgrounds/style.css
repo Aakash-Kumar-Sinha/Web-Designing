@@ -1,0 +1,51 @@
+/* Color using name */
+
+.name-color {
+
+    color: red;
+
+}
+
+
+/* Color using HEX value */
+
+.hex-color {
+
+    color: #008000;
+
+}
+
+
+/* Color using RGB value */
+
+.rgb-color {
+
+    color: rgb(0, 0, 255);
+
+}
+
+
+/* Background properties */
+
+.box {
+
+    background-color: lightblue;
+
+    border: 2px solid black;
+
+    padding: 20px;
+
+}
+
+
+/* Background image example */
+
+body {
+
+    background-image: url("background.jpg");
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+}
